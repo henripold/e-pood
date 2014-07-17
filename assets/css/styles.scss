@@ -229,12 +229,13 @@
 .flashText-ribbon-inner {
   display: block;
   width: 60px;
-}
+  max-width: 60px;
 
   .flashText-ribbon-inner .ee-big {
     display: block;
     width: 60px;
     margin-left: 18%;
+    max-width: 60px;
   }
 .ie8 .ee-flashtext-container {
  position: absolute;
